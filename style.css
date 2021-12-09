@@ -1,3 +1,7 @@
+body {
+  display: grid;
+}
+
 header {
   display: flex;
 }
