@@ -1,0 +1,7 @@
+header {
+  display: grid;
+}
+
+header h1 {
+  color: red;
+}
